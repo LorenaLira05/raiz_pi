@@ -1,0 +1,18 @@
+# IDE Eclipse/STS
+.settings/
+*.classpath
+*.project
+
+# Build
+target/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IntelliJ/VSCode (opcional)
+.idea/
+.vscode/
